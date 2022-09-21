@@ -2,6 +2,7 @@ term-analysis
 ==============================
 
 Data analysis and training for marketing strategies for term deposit
+## Installation Instructions
 
 Project Organization
 ------------
