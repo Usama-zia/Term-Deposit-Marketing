@@ -5,7 +5,24 @@ Data analysis and training for marketing strategies for term deposit
 ## Installation Instructions
 
 go to anaconda prompt and type in following commands:
+1- to install jupyter book so it can use virtual environment
+```
+conda install -c conda-forge notebook
+conda install -c conda-forge nb_conda_kernels
+conda install -c conda-forge jupyterlab
+conda install -c conda-forge nb_conda_kernels
+```
 
+2- to create virtual environment and install requirements
+```
+conda create --n term-analysis pip ipykernel
+source activate term-analysis
+git clone --recursive https://github.com/Usama-zia/term-analysis.git
+cd term-analysis
+pip install -r requirements.txt
+```
+and installation is done.
+Dataset is also included in the repository.
 Project Organization
 ------------
 
