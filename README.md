@@ -4,6 +4,8 @@ term-analysis
 Data analysis and training for marketing strategies for term deposit
 ## Installation Instructions
 
+go to anaconda prompt and type in following commands:
+
 Project Organization
 ------------
 
