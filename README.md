@@ -15,7 +15,7 @@ conda install -c conda-forge nb_conda_kernels
 
 2- to create virtual environment and install requirements
 ```
-conda create --n term-analysis pip ipykernel
+conda create --name term-analysis pip ipykernel
 source activate term-analysis
 git clone --recursive https://github.com/Usama-zia/term-analysis.git
 cd term-analysis
