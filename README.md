@@ -21,12 +21,12 @@ git clone --recursive https://github.com/Usama-zia/term-analysis.git
 cd term-analysis
 pip install -r requirements.txt
 ```
-3- now use following commands to first deactivate enviornment and open jupyter notebook
+3- now use following commands to first deactivate environment and then open jupyter notebook
 ```
 source deactivate
 jupyter notebook
 ```
-to run jupyter notebook make sure you are in conda base enviornment.
+to run jupyter notebook make sure you are in conda base environment.
 Dataset is also included in the repository.
 
 
