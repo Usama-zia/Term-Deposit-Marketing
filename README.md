@@ -1,7 +1,8 @@
 term-analysis
 ==============================
 
-Data analysis and training for marketing strategies for term deposit
+Data analysis and training for marketing strategies for term deposit.
+Please consult notebook (Data_analysis.ipynb) for detailed description of project and Analysis.
 ## Installation Instructions
 
 go to anaconda prompt and type in following commands:
